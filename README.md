@@ -1,6 +1,13 @@
 # mendix-event-management-app
 This repository contains the source code for an online event management application built using Mendix. It enables users to create, manage, and monitor events efficiently. The application includes features for event creation, attendee registration management, and analytics tracking.
 
+# Key features:
+* Event Creation and Management: Easily create new events with customizable details such as date, time, description, and registration settings.
+* Attendee Registration: Seamlessly manage attendee registrations, including check-in status and attendee communication.
+* Session Scheduling: Organize event sessions, workshops, and presentations with intuitive scheduling tools.
+* Real-time Analytics: Track event performance and attendee engagement through comprehensive analytics dashboards.
+* User-Friendly Interface: Intuitive UI/UX design ensures ease of navigation and accessibility for event organizers and attendees alike.
+* Integration Capabilities: Connects seamlessly with external services and APIs for enhanced functionality and data integration.
 
 # Preview
 <img width="1392" alt="Screenshot 2024-06-18 at 7 10 17 PM" src="https://github.com/MohitSinghDhakad/mendix-event-management-app/assets/104711950/75dcc534-0b41-469b-9378-cb051e026312">
